@@ -14,3 +14,7 @@ This repository is a collection of [Python](https://www.python.org/) 🐍 script
 <img src="https://github.com/Sandreke/turtle-python/assets/64377961/0380e21f-cd85-4b8c-b1aa-4979c076fb1c" width="250" height="250"/>
 
 
+### • [03](https://www.instagram.com/p/C9igLLzyX_s/):
+
+<img src="https://github.com/user-attachments/assets/702c49ec-67f1-42c4-b614-9ce77d542264" width="250" height="250"/>
+
