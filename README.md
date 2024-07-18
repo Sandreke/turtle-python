@@ -1,5 +1,5 @@
 # turtle-python
-This repository is a collection of [Python](https://www.python.org/) 🐍 scripts that use the [Turtle](https://docs.python.org/3/library/turtle.html) library to foster creative programming through digital art.
+This repository is a collection of [Python](https://www.python.org/) 🐍 scripts that use the [Turtle](https://docs.python.org/3/library/turtle.html) library to foster creative programming through digital art. Based on the book [Fun With Python: Using Turtle Graphics](https://amzn.to/3Y3rpG1) 📕.
 
 ## 🧑‍💻 You can create...
 
