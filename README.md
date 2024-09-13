@@ -18,3 +18,7 @@ This repository is a collection of [Python](https://www.python.org/) 🐍 script
 
 <img src="https://github.com/user-attachments/assets/702c49ec-67f1-42c4-b614-9ce77d542264" width="250" height="250"/>
 
+
+### • [04](https://www.instagram.com/p/C_1eAukyWOu/):
+
+<img src="https://github.com/user-attachments/assets/094fcc64-940b-4f32-ad9e-7c4a4f6ebdbd" width="250" height="250"/>
