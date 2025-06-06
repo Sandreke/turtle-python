@@ -66,4 +66,4 @@ def draw_from_json(json_file):
     screen.mainloop()
 
 if __name__ == "__main__":
-    draw_from_json("sunflowers.json") 
+    draw_from_json("resources/sunflowers.json") 
