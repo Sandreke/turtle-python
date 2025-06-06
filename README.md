@@ -22,3 +22,10 @@ This repository is a collection of [Python](https://www.python.org/) 🐍 script
 ### • [04](https://www.instagram.com/p/C_1eAukyWOu/):
 
 <img src="https://github.com/user-attachments/assets/094fcc64-940b-4f32-ad9e-7c4a4f6ebdbd" width="250" height="250"/>
+
+
+### • [05](https://www.instagram.com/p/DKhzj7fAbSV/):
+
+> Input: *resources/sunflowers.json*
+<img src="https://github.com/user-attachments/assets/d69dfb07-31bf-4567-9262-226bbbc891b5" width="250" height="250"/>
+
