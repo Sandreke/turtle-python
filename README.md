@@ -29,3 +29,9 @@ This repository is a collection of [Python](https://www.python.org/) 🐍 script
 > Input: *resources/sunflowers.json*
 <img src="https://github.com/user-attachments/assets/d69dfb07-31bf-4567-9262-226bbbc891b5" width="250" height="250"/>
 
+
+### • [06](https://www.instagram.com/p/DK-iXByAytJ/):
+
+> Input: *resources/rosas.json*
+<img src="https://github.com/user-attachments/assets/7a3a57cf-0f11-4217-95d9-305922b760b4" width="250" height="250"/>
+
